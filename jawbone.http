@@ -1,0 +1,10 @@
+GET https://jawbone.com/nudge/api/v.1.1/users/@me/sleeps
+Authorization: Bearer u1r_4oEFjcEPliPY71u_1G10uf_tdJB1hBJPqGeG4APyHmj_LFp_0IDKRqWwFNhF-qZliM8JluIJGXHGJtDrEFECdgRlo_GULMgGZS0EumxrKbZFiOmnmAPChBPDZ5JP
+Content-Type: application/json
+###
+
+POST https://open-ic.epic.com/argonaut/oauth2/token HTTP/1.1
+Content-Type: application/x-www-form-urlencoded	
+
+grant_type=authorization_code&code=Mybg0nRtarv3k2nb6Y-B7Zzqulr-WfVfYodaL0VyYgL-e_y05ERM3Jreq3DRxOvfPqYkjDESuTOLfT6ZH_Bc9PjD834dBXk8RuuLT3G639HFymk6HGxv02sJZr7XRsFL&redirect_uri=http://localhost:4200&client_id=46845574-441e-41b8-b495-8ef0241a6f02
+    
